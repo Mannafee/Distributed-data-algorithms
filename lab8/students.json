@@ -1,0 +1,20 @@
+{"s_id":1, "first_name": "Alan", "last_name": "Joe", "dob":"October 14, 1983", "course": "Humanities and Art", "points":10}
+{"s_id":2, "first_name": "Martin", "last_name": "Genberg", "dob":"September 26, 1980", "course": "Computer Science", "points":17}
+{"s_id":3, "first_name": "Athur", "last_name": "Watson", "dob":"June 12, 1982", "course": "Graphic Design", "points":16}
+{"s_id":4, "first_name": "Anabelle", "last_name": "Sanberg", "dob":"April 5, 1987", "course": "Graphic Design", "points":12}
+{"s_id":5, "first_name": "Kira", "last_name": "Schommer", "dob":"November 1, 1978", "course": "Psychology", "points":11}
+{"s_id":6, "first_name": "Christian", "last_name": "Kiriam", "dob":"17 February 1981", "course": "Business", "points":10}
+{"s_id":7, "first_name": "Barbara", "last_name": "Ballard", "dob":"1 January 1984", "course": "Machine Learning", "points":14}
+{"s_id":8, "first_name": "John", "last_name": null, "dob":"January 13, 1978", "course": "Deep Learning", "points":10}
+{"s_id":9, "first_name": "Marcus", "last_name": "Carson", "dob":"26 December 1989", "course": "Machine Learning", "points":15}
+{"s_id":10, "first_name": "Marta", "last_name": "Brooks", "dob":"30 December 1987", "course": "Physics", "points":11}
+{"s_id":11, "first_name": "Holly", "last_name": "Schwartz", "dob":"June 12, 1975", "course": "Data Analytics", "points":12}
+{"s_id":12, "first_name": "April", "last_name": "Black", "dob":"July 2, 1985", "course": "Computer Science", "points":null}
+{"s_id":13, "first_name": "Irene", "last_name": "Bradley", "dob":"July 22, 1980", "course": "Computer Science", "points":13}
+{"s_id":14, "first_name": "Mark", "last_name": "Weber", "dob":"7 February 1986", "course": "Psychology", "points":12}
+{"s_id":15, "first_name": "Rosie", "last_name": "Norman", "dob":"May 18, 1987", "course": "Informatics", "points":9}
+{"s_id":16, "first_name": "Martin", "last_name": "Steele", "dob":"August 10, 1984", "course": "Business", "points":7}
+{"s_id":17, "first_name": "Colin", "last_name": "Martinez", "dob":"16 December 1990", "course": "Machine Learning", "points":9}
+{"s_id":18, "first_name": "Bridget", "last_name": "Twain", "dob":null, "course": "Data Analytics", "points":6}
+{"s_id":19, "first_name": "Darlene", "last_name": "Mills", "dob":"7 March 1980", "course": "Business", "points":19}
+{"s_id":20, "first_name": "Zachary", "last_name": null, "dob":"June 2, 1985", "course": "Data Analytics", "points":10}
