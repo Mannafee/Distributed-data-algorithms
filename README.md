@@ -9,3 +9,6 @@
 * Lab_7 :Convolutional Neural Networks for Image Classiﬁcation 
 * Lab_8 :Distributed Computing with Apache Spark
 * Lab_9 :Hadoop warmup exercises
+
+
+#Please leave a star if you like my repo :)
